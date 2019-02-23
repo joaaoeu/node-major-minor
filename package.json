@@ -1,0 +1,27 @@
+{
+  "name": "node-major-minor",
+  "version": "1.0.0",
+  "description": "First Challange of Node - Rocketseat Bootcamp (GoStack 5.0)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaaoeu/node-major-minor.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "Nunjucks",
+    "ESLint",
+    "Husky"
+  ],
+  "author": "João Vitor Barbosa Brandão <hello@joaao.eu> (https://www.joaao.eu/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaaoeu/node-major-minor/issues"
+  },
+  "homepage": "https://github.com/joaaoeu/node-major-minor#readme"
+}
